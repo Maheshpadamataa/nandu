@@ -1,0 +1,11 @@
+  ANSIBLE
+============
+For example oka system admin 2 severs tisukuni edaina software install chaiyali antay minimum okoka server ki 20 minutes 
+patochu so ansible tool dwara oksarey 100 or much more yaml file laga create chesukuni softwares nee deploy chesukovachu... 
+
+related tools like papet,saltstuck,pupet,ansible is the present usuage tool in devops and it is free version tool...
+
+
+
+
+manually we deploy any software in 100  servers 15 hours but inventorly deploy in yaml 7 hours but we become ansible 10 minutes....
